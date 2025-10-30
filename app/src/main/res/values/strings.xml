@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RavenHackerNews</string>
+    <string name="app_bar_title">Hacker News — Android</string>
+    <string name="dialog_title">Problema de red</string>
+    <string name="dialog_generic_title">Ocurrio un problema</string>
+    <string name="dialog_message">Hubo un error al cargar la página.</string>
+    <string name="dialog_impossible_message">No se puede iniciar la página en este momento.</string>
+    <string name="dialog_close">Cerrar</string>
+    <string name="dialog_retry">Reintentar</string>
+    <string name="dialog_accept">Aceptar</string>
+
+    <string name="error_timeout">La conexión tardó demasiado. Inténtalo más tarde.</string>
+    <string name="error_blocked_by_orb">WebView bloqueó este recurso cruzado porque el servidor no lo marcó como seguro para incrustar.</string>
+    <string name="error_no_internet">No se pudo cargar la página. Verifica tu conexión e inténtalo de nuevo.</string>
+    <string name="error_generic">No se pudo cargar la página. Intenta nuevamente más tarde.</string>
+    <string name="loading_message">Cargando...</string>
+    <string name="error_prefix">Error:</string>
+
+    <string name="refreshing_message">Actualizando noticias...</string>
+
+    <string name="delete_label">Eliminar</string>
+    <string name="delete_content_description">Eliminar noticia</string>
+</resources>
